@@ -5,10 +5,40 @@
         "first_name": "Adriano",
         "last_name": "Medeiros",
         "email": "mmm",
-        "gender": "male",
-        "birthday": "2023-10-21",
+        "gender": "M",
+        "birthday": "2013-10-21",
         "language": "portugues",
         "id": "1"
-      }
+      },
+      {
+        "avatar": "https://github.com/adriano-henriqq.png",
+        "first_name": "Adriano",
+        "last_name": "Medeiros",
+        "email": "mmm",
+        "gender": "F",
+        "birthday": "2010-10-21",
+        "language": "Ingles",
+        "id": "2"
+      },
+      {
+        "avatar": "https://github.com/adriano-henriqq.png",
+        "first_name": "Adriano",
+        "last_name": "Medeiros",
+        "email": "mmm",
+        "gender": "M",
+        "birthday": "2001-10-21",
+        "language": "portugues",
+        "id": "3"
+      },
+      {
+        "avatar": "https://github.com/adriano-henriqq.png",
+        "first_name": "Adriano",
+        "last_name": "Medeiros",
+        "email": "mmm",
+        "gender": "F",
+        "birthday": "2005-10-21",
+        "language": "Russo",
+        "id": "4"
+      },
     ]
   }
